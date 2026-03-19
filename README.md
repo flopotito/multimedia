@@ -49,7 +49,7 @@ body{
   font-family: Arial, sans-serif;
   /* Define la tipografía del texto */
 
-  font-size: 50px;
+  font-size: 60px;
   /* Define el tamaño grande del texto */
 
 }
