@@ -25,10 +25,10 @@ Ejercicio 1, Semana 1
 body{
 /* "body" se refiere a todo el contenido visible de la página */
 
-  background-color: black;
-  /* Define que el fondo de toda la página sea blanco */
+  background-color: green;
+  /* Define que el fondo de toda la página sea verde */
 
-  color: white;
+  color: black;
   /* Define que el color del texto sea negro */
 
   margin: 0;
@@ -49,7 +49,7 @@ body{
   font-family: Arial, sans-serif;
   /* Define la tipografía del texto */
 
-  font-size: 60px;
+  font-size: 50px;
   /* Define el tamaño grande del texto */
 
 }
