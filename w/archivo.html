@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Archivo - Florencia Umaña</title>
+
+<style>
+body {
+    font-family: monospace;
+    margin: 0;
+    background-color: black;
+    color: white;
+}
+
+.contenedor {
+    width: 90%;
+    max-width: 1200px;
+    margin: auto;
+    padding: 20px;
+    text-align: center;
+}
+
+/* Título */
+h1 {
+    font-size: 40px;
+    margin-bottom: 10px;
+}
+
+/* Galería */
+.gallery {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+    gap: 12px;
+    margin-top: 20px;
+}
+
+.gallery-item {
+    position: relative;
+    overflow: hidden;
+    border-radius: 8px;
+    cursor: pointer;
+    background-color: #222;
+    height: 140px;
+}
+
+.gallery-item img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    transition: transform 0.3s;
+}
+
+.gallery-item:hover img {
+    transform: scale(1.1);
+}
+
+/* Título sobre imagen */
+.gallery-item .overlay {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    background: rgba(0,0,0,0.5);
+    color: white;
+    padding: 6px;
+    text-align: center;
+    font-size: 14px;
+    opacity: 0;
+    transition: opacity 0.3s;
+}
+
+.gallery-item:hover .overlay {
+    opacity: 1;
+}
+
+/* Lightbox */
+.lightbox {
+    position: fixed;
+    top:0;
+    left:0;
+    width:100%;
+    height:100%;
+    background: rgba(0,0,0,0.9);
+    display: none;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    z-index: 1000;
+    padding: 20px;
+}
+
+.lightbox img {
+    max-width: 80%;
+    max-height: 70%;
+    margin-bottom: 18px;
+    border-radius: 10px;
+}
+
+.lightbox .desc {
+    color: white;
+    text-align: center;
+    font-size: 17px;
+}
+
+.lightbox .close {
+    position: absolute;
+    top: 18px;
+    right: 28px;
+    font-size: 30px;
+    color: white;
+    cursor: pointer;
+}
+
+a.back {
+    color: white;
+    text-decoration: none;
+    font-size: 18px;
+    display: inline-block;
+    margin-bottom: 15px;
+}
+</style>
+</head>
+<body>
+
+<div class="contenedor">
+    <a class="back" href="index.html">← Volver</a>
+    <h1>Archivo de trabajos</h1>
+
+    <div class="gallery">
+        <div class="gallery-item" onclick="openLightbox('img/trabajo1.jpg','Título 1 — Técnica / Año')">
+            <img src="img/trabajo1.jpg" alt="">
+            <div class="overlay">Título 1</div>
+        </div>
+
+        <div class="gallery-item" onclick="openLightbox('img/trabajo2.jpg','Título 2 — Técnica / Año')">
+            <img src="img/trabajo2.jpg" alt="">
+            <div class="overlay">Título 2</div>
+        </div>
+
+        <div class="gallery-item" onclick="openLightbox('img/trabajo3.jpg','Título 3 — Técnica / Año')">
+            <img src="img/trabajo3.jpg" alt="">
+            <div class="overlay">Título 3</div>
+        </div>
+
+        <div class="gallery-item" onclick="openLightbox('img/trabajo4.jpg','Título 4 — Técnica / Año')">
+            <img src="img/trabajo4.jpg" alt="">
+            <div class="overlay">Título 4</div>
+        </div>
+
+        <!-- Agrega más miniaturas aquí -->
+    </div>
+</div>
+
+<!-- Lightbox -->
+<div class="lightbox" id="lightbox">
+    <span class="close" onclick="closeLightbox()">&times;</span>
+    <img id="lb-img" src="">
+    <div class="desc" id="lb-desc"></div>
+</div>
+
+<script>
+function openLightbox(src, desc){
+    document.getElementById('lightbox').style.display = 'flex';
+    document.getElementById('lb-img').src = src;
+    document.getElementById('lb-desc').innerText = desc;
+}
+
+function closeLightbox(){
+    document.getElementById('lightbox').style.display = 'none';
+}
+</script>
+
+</body>
+</html>
