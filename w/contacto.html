@@ -3,19 +3,22 @@
 
 <head>
 <meta charset="UTF-8">
-<title>Contacto - Florencia Umaña</title>
+<title>Florencia Umaña</title>
 
 <link href="https://fonts.googleapis.com/css2?family=Libre+Baskerville&display=swap" rel="stylesheet">
 
 <style>
 
 body{
+font-family: 'Libre Baskerville', serif;
 margin:0;
-font-family:'Libre Baskerville', serif;
-background:black;
+background-image: url("fondo.jpg");
+background-size: cover;
+background-repeat: no-repeat;
+background-position: center;
 }
 
-/* capa oscura suave (opcional si agregas fondo después) */
+/* capa oscura */
 body::before{
 content:"";
 position:fixed;
@@ -23,39 +26,36 @@ top:0;
 left:0;
 width:100%;
 height:100%;
-background:rgba(0,0,0,0.2);
+background:rgba(0,0,0,0.4);
 z-index:-1;
 }
 
-/* CONTENEDOR GENERAL */
-.contenedor{
-position:relative;
-width:100%;
-min-height:100vh;
-}
-
-/* HEADER IZQUIERDA */
+/* HEADER IGUAL QUE OBRAS */
 .header{
 position:absolute;
-top:50px;
+top:25px; /* 👈 MISMA ALTURA */
 left:60px;
+display:flex;
+align-items:center;
+gap:30px;
 }
 
 .header h1{
 font-size:28px;
 margin:0;
-color:white;
 font-weight:normal;
 letter-spacing:1px;
 }
 
-/* MENÚ DERECHA */
+.header a{
+text-decoration:none;
+color:white;
+}
+
+/* MENÚ */
 .menu{
-position:absolute;
-top:50px;
-right:60px;
 display:flex;
-gap:25px;
+gap:20px;
 }
 
 .seccion a{
@@ -73,30 +73,17 @@ opacity:0.4;
 /* CONTENIDO */
 .contenido{
 display:flex;
-margin-top:140px;
-height:calc(100vh - 140px);
+margin-top:120px;
+height:calc(100vh - 120px);
 }
 
-/* TEXTO CONTACTO */
 .contacto{
 width:40%;
 padding:60px;
 color:white;
+background:rgba(0,0,0,0.3);
 }
 
-.contacto h2{
-font-size:22px;
-font-weight:normal;
-margin-bottom:30px;
-}
-
-.contacto p{
-font-size:16px;
-margin:15px 0;
-opacity:0.8;
-}
-
-/* IMAGEN */
 .imagen{
 width:60%;
 }
@@ -112,36 +99,28 @@ object-fit:cover;
 
 <body>
 
-<div class="contenedor">
-
-<!-- HEADER -->
 <div class="header">
-<h1>Florencia Umaña</h1>
-</div>
+<h1><a href="index.html">Florencia Umaña</a></h1>
 
-<!-- MENÚ -->
 <div class="menu">
 <div class="seccion">
 <a href="obras.html">Obras</a>
 </div>
 <div class="seccion">
-<a href="contacto.html">Contacto</a>
+<a href="contacto.html" style="opacity:0.4;">Contacto</a>
+</div>
 </div>
 </div>
 
-<!-- CONTENIDO -->
 <div class="contenido">
 
 <div class="contacto">
-<h2>Contacto</h2>
 <p>Email: flobelen@gmail.com</p>
 <p>Instagram: @florquesiente</p>
 </div>
 
 <div class="imagen">
 <img src="imgcontacto.jpg">
-</div>
-
 </div>
 
 </div>
