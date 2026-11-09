@@ -270,9 +270,9 @@ Me gustaría que algunas imágenes pudieran quedarse conmigo un poco más.
 
 # UNIDAD 2. TOUCHDESIGNER
 <img src="https://i.imgur.com/lMZNy7g.gif" alt="GIF Florencia" width="300"><br>
-
-*Otro espacio de experimentación. Esta vez, trabajando con imágenes, movimiento y sonido.*
-
+```
+Otro espacio de experimentación. Esta vez, trabajando con imágenes superpuestas y palabras.
+```
 ### Registros de experimentación
 
 [Experimentación](https://drive.google.com/drive/folders/1TPhxrVtmqLBfSc_1rInftr-To1jHRwG2?usp=drive_link)
@@ -284,4 +284,4 @@ Me gustaría que algunas imágenes pudieran quedarse conmigo un poco más.
 *Algunas cosas se guardan en fotografías, otras en movimiento. No todo recuerdo tiene que permanecer quieto.*
 ---
 
-*No quiero que todo se pierda. Quizás por eso me gusta guardar imágenes, hacer registros y construir pequeños lugares donde las cosas puedan permanecer.*
+No quiero que todo se pierda. Quizás por eso me gusta guardar imágenes, hacer registros y construir pequeños lugares donde las cosas puedan permanecer.
