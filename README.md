@@ -3,8 +3,6 @@
 ### UNIDAD 1
 *Archivo de pequeños recuerdos, imágenes y cosas que no quiero olvidar.*
 
-<img src="https://media.giphy.com/media/F0Y7kjfHRl3a0/giphy.gif" alt="Reloj" width="180">
-
 ---
 
 ## Índice
