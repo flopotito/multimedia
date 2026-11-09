@@ -11,7 +11,7 @@
 2. [Semana 2. Un lugar para quedarse](#semana-2-un-lugar-para-quedarse)
 3. [Semana 3. Ordenar los recuerdos](#semana-3-ordenar-los-recuerdos)
 4. [Semana 4. Pequeños cambios](#semana-4-pequeños-cambios)
-5. [Semana 8. Página final](#semana-8-pagina-final)
+5. [Semana 8. Página final](#semana-8-página-final)
 6. [UNIDAD 2. TOUCHDESIGNER](#unidad-2-touchdesigner)
 
 ---
