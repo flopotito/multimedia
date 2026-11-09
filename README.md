@@ -41,7 +41,7 @@ Primer acercamiento a HTML. La idea inicial es construir una página sencilla qu
 </html>
 ```
 
-**Nota:** Me gustaría que la página no se sintiera como una presentación tradicional. Quiero que tenga algo de mí, pero sin tener que explicar demasiado.
+Me gustaría que la página no se sintiera como una presentación tradicional. Quiero que tenga algo de mí, pero sin tener que explicar demasiado.
 
 ---
 
@@ -71,7 +71,7 @@ img {
 </style>
 ```
 
-**Nota:** No quiero llenar todo de información. A veces una imagen puede decir más que una descripción.
+No quiero llenar todo de información. A veces una imagen puede decir más que una descripción.
 
 ---
 
@@ -79,7 +79,7 @@ img {
 
 Comienzo a separar el contenido en distintas páginas para organizar mejor el sitio. Pienso en tres espacios: uno para presentarme, otro para mostrar mis obras y otro para dejar mis datos de contacto.
 
-**Estructura propuesta:**
+##Estructura propuesta:
 
 - `index.html` — Inicio.
 - `obras.html` — Obras y registros.
