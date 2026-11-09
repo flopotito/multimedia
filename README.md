@@ -1,4 +1,5 @@
 # FLORENCIA UMAÑA
+<img src="https://i.imgur.com/8TCDjqY.png" alt="Imagen" width="300"><br><br>
 #### TALLER MULTIMEDIAL
 ### UNIDAD 1
 *Archivo de pequeños recuerdos, imágenes y cosas que no quiero olvidar.*
@@ -268,6 +269,7 @@ Me gustaría que algunas imágenes pudieran quedarse conmigo un poco más.
 ---
 
 # UNIDAD 2. TOUCHDESIGNER
+<img src="https://i.imgur.com/lMZNy7g.gif" alt="GIF Florencia" width="300"><br>
 
 *Otro espacio de experimentación. Esta vez, trabajando con imágenes, movimiento y sonido.*
 
