@@ -41,7 +41,7 @@ Primer acercamiento a HTML. La idea inicial es construir una página sencilla qu
 </html>
 ```
 
-Me gustaría que la página no se sintiera como una presentación tradicional. Quiero que tenga algo de mí, pero sin tener que explicar demasiado.
+Me gustaría que la página no se sintiera como una presentación formal. Quiero que tenga algo de mí, pero sin tener que explicar demasiado. Fondos con textura, imágenes que estén llenando el fondo. Quiero que sea sutil pero que no sea fome.
 
 ---
 
