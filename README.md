@@ -1,6 +1,6 @@
 # FLORENCIA UMAÑA
 <img src="https://i.imgur.com/8TCDjqY.png" alt="Imagen" width="300"><br><br>
-<img src="https://media2.giphy.com/media/0GZP1wAt0oCuO61rlt/giphy.gif"/>
+
 #### TALLER MULTIMEDIAL
 ### UNIDAD 1
 *Archivo de pequeños recuerdos, imágenes y cosas que no quiero olvidar.*
@@ -17,7 +17,7 @@
 6. [UNIDAD 2. TOUCHDESIGNER](#unidad-2-touchdesigner)
 
 ---
-
+<img src="https://media2.giphy.com/media/0GZP1wAt0oCuO61rlt/giphy.gif" alt="Imagen" width="300"><br><br>
 ## Semana 1. Primeras huellas
 
 Primer acercamiento a HTML. La idea inicial es construir una página sencilla que pueda funcionar como una presentación personal.
