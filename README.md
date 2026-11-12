@@ -1,6 +1,6 @@
 # FLORENCIA UMAÑA
 <img src="https://i.imgur.com/8TCDjqY.png" alt="Imagen" width="300"><br><br>
-<img src="https://github.com/flopotito/multimedia/blob/main/td/gif.gif"/>
+
 
 #### TALLER MULTIMEDIAL
 ### UNIDAD 1
@@ -272,6 +272,7 @@ Me gustaría que algunas imágenes pudieran quedarse conmigo un poco más.
 
 # UNIDAD 2. TOUCHDESIGNER
 <img src="https://i.imgur.com/lMZNy7g.gif" alt="GIF Florencia" width="300"><br>
+<img src="https://github.com/flopotito/multimedia/blob/main/td/gif.gif"/>
 ```
 Otro espacio de experimentación. Esta vez, trabajando con imágenes superpuestas y palabras.
 ```
