@@ -1,6 +1,6 @@
 # FLORENCIA UMAÑA
 <img src="https://i.imgur.com/8TCDjqY.png" alt="Imagen" width="300"><br><br>
-<img src="https://github.com/flopotito/multimedia/blob/main/td/_perform_%202026-11-12%2009-58-03.mp4"/>
+<img src="https://github.com/flopotito/multimedia/blob/main/td/gif.gif"/>
 
 #### TALLER MULTIMEDIAL
 ### UNIDAD 1
