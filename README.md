@@ -277,6 +277,8 @@ Me gustaría que algunas imágenes pudieran quedarse conmigo un poco más.
 Otro espacio de experimentación. Esta vez, trabajando con imágenes superpuestas y palabras.
 ```
 ### Registros de experimentación
+foto kiosco cerrado
+<img src="https://github.com/flopotito/multimedia/blob/main/td/DSCN1699%20(1).JPG"/>
 
 [Experimentación](https://drive.google.com/drive/folders/1TPhxrVtmqLBfSc_1rInftr-To1jHRwG2?usp=drive_link)
 
