@@ -279,7 +279,7 @@ Otro espacio de experimentación. Esta vez, trabajando con imágenes superpuesta
 ### Registros de experimentación
 foto kiosco cerrado
 <img src="https://github.com/flopotito/multimedia/blob/main/td/DSCN1699%20(1).JPG"/>
-
+```
 [Experimentación](https://drive.google.com/drive/folders/1TPhxrVtmqLBfSc_1rInftr-To1jHRwG2?usp=drive_link)
 
 ### Desarrollo técnico
