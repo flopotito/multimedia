@@ -19,7 +19,7 @@
 
 ---
 <img src="https://media2.giphy.com/media/0GZP1wAt0oCuO61rlt/giphy.gif" alt="Imagen" width="300"><br><br>
-## Semana 1. Primeras huellas
+## Semana 1. Primeros intentos
 
 Primer acercamiento a HTML. La idea inicial es construir una página sencilla que pueda funcionar como una presentación personal.
 
@@ -43,11 +43,11 @@ Primer acercamiento a HTML. La idea inicial es construir una página sencilla qu
 </html>
 ```
 
-Me gustaría que la página no se sintiera como una presentación formal. Quiero que tenga algo de mí, pero sin tener que explicar demasiado. Fondos con textura, imágenes que estén llenando el fondo. Quiero que sea sutil pero que no sea fome.
+Me gustaría que la página no se sintiera como una presentación formal. Quiero que tenga algo de mí, pero sin tener que explicar demasiado. Fondos simples, imágenes que estén llenando el fondo. Quiero que sea sutil pero que no sea fome.
 
 ---
 
-## Semana 2. Un lugar para quedarse
+## Semana 2. Cambios iniciales
 ```
 Me interesa que las imágenes tengan espacio para respirar.
 Comienzo a experimentar con los fondos, los colores y las tipografías. Busco una estética más tranquila, que permita que las imágenes y el nombre sean los protagonistas.
@@ -77,7 +77,7 @@ No quiero llenar todo de información. A veces una imagen puede decir más que u
 
 ---
 
-## Semana 3. Ordenar los recuerdos
+## Semana 3. Ordenar las imagenes 
 
 Comienzo a separar el contenido en distintas páginas para organizar mejor el sitio. Pienso en tres espacios: uno para presentarme, otro para mostrar mis obras y otro para dejar mis datos de contacto.
 
@@ -97,11 +97,11 @@ Ejemplo de navegación:
 </nav>
 ```
 
-Me gusta pensar que cada página es como una pequeña habitación. No todas tienen que guardar las mismas cosas.
+
 
 ---
 
-## Semana 4. Pequeños cambios
+## Semana 4. Agrego ventanas
 
 Estoy buscando una manera de que la página se sienta más como un espacio que como un catálogo
 
@@ -258,7 +258,7 @@ opacity: 0.4;
 
 ### Resultado
 
-La página final busca mantener una relación entre la imagen de fondo, la oscuridad y la tipografía. Me interesa que sea un espacio sencillo, donde cada elemento tenga su lugar.
+La página final busca mantener una relación entre la imagen de fondo, la luz y la tipografía. 
 
 ---
 
@@ -271,6 +271,9 @@ Me gustaría que algunas imágenes pudieran quedarse conmigo un poco más.
 ---
 
 # UNIDAD 2. TOUCHDESIGNER
+
+### Introducción a touchdesigner 
+
 <img src="https://i.imgur.com/lMZNy7g.gif" alt="GIF Florencia" width="300"><br>
 <img src="https://github.com/flopotito/multimedia/blob/main/td/gif.gif"/>
 ```
