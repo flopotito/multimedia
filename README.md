@@ -273,7 +273,14 @@ Me gustaría que algunas imágenes pudieran quedarse conmigo un poco más.
 # UNIDAD 2. TOUCHDESIGNER
 
 ### Introducción a touchdesigner 
+- Instalación del programa y configuración inicial
+- Orden de flujo de red (Network)
+- Uso de TOPS CHOPS y demases
+- Mapping
+- Storyboard aparte en documentos
+- Creación de poryecto de touchdesigner
 
+  
 <img src="https://i.imgur.com/lMZNy7g.gif" alt="GIF Florencia" width="300"><br>
 <img src="https://github.com/flopotito/multimedia/blob/main/td/gif.gif"/>
 ```
