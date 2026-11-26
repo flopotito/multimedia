@@ -279,16 +279,26 @@ Me gustaría que algunas imágenes pudieran quedarse conmigo un poco más.
 - Mapping
 - Storyboard aparte en documentos
 - Creación de poryecto de touchdesigner
-
   
-<img src="https://i.imgur.com/lMZNy7g.gif" alt="GIF Florencia" width="300"><br>
+```
+
+
+```
+#### foto kiosco cerrado
+<img src="https://github.com/flopotito/multimedia/blob/main/td/DSCN1699%20(1).JPG" alt="Imagen" width="300"><br><br>
+
+
+```
+
+### Imagen proyecto final
+
 <img src="https://github.com/flopotito/multimedia/blob/main/td/gif.gif"/>
-```
+
 Otro espacio de experimentación. Esta vez, trabajando con imágenes superpuestas y palabras.
-```
+
 ### Registros de experimentación
 
-#### foto kiosco cerrado
+### Foto kiosco cerrado
 <img src="https://github.com/flopotito/multimedia/blob/main/td/DSCN1699%20(1).JPG" alt="Imagen" width="300"><br><br>
 
 [Experimentación](https://drive.google.com/drive/folders/1TPhxrVtmqLBfSc_1rInftr-To1jHRwG2?usp=drive_link)
