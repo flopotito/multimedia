@@ -282,14 +282,6 @@ Me gustaría que algunas imágenes pudieran quedarse conmigo un poco más.
 
 ---  
 
-
-
-#### foto kiosco cerrado
-<img src="https://github.com/flopotito/multimedia/blob/main/td/DSCN1699%20(1).JPG" alt="Imagen" width="300"><br><br>
-
-
-
-
 ### Imagen proyecto final
 
 <img src="https://github.com/flopotito/multimedia/blob/main/td/gif.gif"/>
